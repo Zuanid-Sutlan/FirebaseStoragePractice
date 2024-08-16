@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "48391400877",
+    "project_id": "fir-storagepractice-55a25",
+    "storage_bucket": "fir-storagepractice-55a25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48391400877:android:a6ebfb25d53af4901e0524",
+        "android_client_info": {
+          "package_name": "com.devstudio.firebasestoragepractice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXwtUcI8sStwPgsVodYahJJgyfLSez_Y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
